@@ -36,7 +36,7 @@ print(Fore.YELLOW + '1. run')
 
 main_menu = input(':')
 
-if main_menu == ('0'):
+if main_menu == ('1'):
     URLinput = input('insert url')
     while True:
         def StockChecker():
